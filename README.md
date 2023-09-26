@@ -6,5 +6,5 @@ A3P3 - Logistic Regression
 A4P1 - Linear Regression  
 
 ## DL:
-ConvNet - convolutional neural network for CIFAR classification
+ConvNet - convolutional neural network for CIFAR classification  
 AutoEncode - autoencoder
